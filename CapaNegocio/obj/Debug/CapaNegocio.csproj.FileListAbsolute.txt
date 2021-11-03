@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\ModelamientoEmpresa\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\user\source\repos\ModelamientoEmpresa\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\user\source\repos\ModelamientoEmpresa\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ModelamientoEmpresa\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ModelamientoEmpresa\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\user\source\repos\ModelamientoEmpresa\CapaNegocio\obj\Debug\CapaNegocio.pdb
